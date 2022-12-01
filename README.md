@@ -1,3 +1,3 @@
 # trainee_assignments
 
-link to my website https://github.com/boboDunca99/trainee_assignments.git
+link to my website https://bobodunca99.github.io/trainee-assignments/index.html
